@@ -27,7 +27,7 @@ disqus:
   id:               "dushevadnqka"
 
 # URL
-url:                "http://127.0.0.1:4000" #"https://dushevadnqka.github.io" # the base hostname & protocol for your site
+url:                "https://dushevadnqka.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "/dushevadnqka.github.io" # the subpath of your site, e.g. /blog
 
@@ -54,7 +54,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "http://127.0.0.1:4000/dushevadnqka.github.io" #"https://github.com/dushevadnqka"
+    url:            "https://github.com/dushevadnqka"
 
 # Sass
 sass:
