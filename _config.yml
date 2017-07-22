@@ -3,23 +3,15 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "dushevadnqka"
+name:               "The Georgi Aleksandrov's {dushevadnqka} blog"
 
 author:
-  facebook:         your-id
-  youtubeUser:      your-id
-  youtubeChannel:   your-id
-  twitter:          your-id
-  github:           your-id
-  stackoverflow:    your-id
-  quora:            your-id
-  linkedin:         your-id
-  pinterest:        your-id
-  googlePlus:       your-id
-  instagram:        your-id
-  reddit:           your-id
-  medium:           your-id
-  tumblr:           your-id
+  twitter:          Gitarrebarde
+  github:           dushevadnqka
+  stackoverflow:    6799271
+  linkedin:         georgi-alexandroff-248991a3
+  googlePlus:       113592817957118959166
+  medium:           dushevadnqka
   email:            georgi.alehandro.ff@gmail.com
 
 copyright:
@@ -37,11 +29,11 @@ disqus:
 # URL
 url:                "https://dushevadnqka.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/" # the subpath of your site, e.g. /blog
+baseurl:            "/dushevadnqka.github.io" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           Europe/Sofia
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
@@ -57,8 +49,8 @@ kramdown:
 nav:
   - name:           "About"
     url:            "/about"
-  - name:           "Archive"
-    url:            "/archive"
+  #- name:           "Archive"
+    #url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
