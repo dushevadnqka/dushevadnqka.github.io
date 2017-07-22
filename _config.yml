@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "The Georgi Aleksandrov's {dushevadnqka} blog"
+name:               "Georgi Aleksandrov's blog"
 
 author:
   twitter:          Gitarrebarde
@@ -16,7 +16,7 @@ author:
 
 copyright:
   year:             2017
-  name:             dushevadnqka
+  name:             Georgi Aleksandrov
 
 # Google-analytics
 google-analytics:
@@ -27,7 +27,7 @@ disqus:
   id:               "dushevadnqka"
 
 # URL
-url:                "https://dushevadnqka.github.io" # the base hostname & protocol for your site
+url:                "http://127.0.0.1:4000" #"https://dushevadnqka.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "/dushevadnqka.github.io" # the subpath of your site, e.g. /blog
 
@@ -54,7 +54,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/dushevadnqka"
+    url:            "http://127.0.0.1:4000/dushevadnqka.github.io" #"https://github.com/dushevadnqka"
 
 # Sass
 sass:

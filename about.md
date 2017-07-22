@@ -7,18 +7,18 @@ This is Georgi Aleksandrov's personal blog.
 
 ## Who am I?
 
-- I am PHP dev,
-- who loves my wife,
-- who likes Symfony,
-- who can't remember the world before Docker,
+- I am a PHP dev
+- who loves his wife
+- who likes Symfony
+- who can't remember the world before Docker
 - who thinks that React/ Redux is something very very cool!
-- Who doesn't afraid from TDD,
-- who can't stop thinking for Ruby.
+- who isn't afraid of TDD
+- who can't stop thinking about Ruby
 
 
-## The purpose?
+## The purpose of this blog?
 
-#### Share Ideas, meet with geeks. Think over some problematics of programming.
+#### Share ideas, meet colleagues, talk about some problematics of programming.
 
 ## How to find you?
 
